@@ -11,11 +11,11 @@ Ao unir suas habilidades e paixão pela tecnologia, os alunos da EBAC estão det
 ```
 - Linguagem: Java
 - Estrutura: Microservice
-- Framework: Spring
+- Framework: Spring / Spring boot 3
 - Banco de dados: PostgreSQL
 - IDE: IntelliJ
 - Arquitetura: Microservice
-- Idioma do código: Inglês
+- Idioma do código / comentários: Inglês
 - Versionamento: Git/Github
 ```
 ## Dependências
@@ -26,6 +26,11 @@ Ao unir suas habilidades e paixão pela tecnologia, os alunos da EBAC estão det
 - Spring JPA
 - Lombok
 - Postman
+- Hateoas
+- Spring WebFlux
+- Fliway Migration
+- PostgreSQL Driver
+- Validation
 
 ## Configuração e Execução
 
